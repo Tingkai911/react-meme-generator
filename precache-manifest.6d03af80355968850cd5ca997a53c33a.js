@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1aaebe6bb86b19a81bab55a52212d5ef",
+    "revision": "d89b0f9372843886bed82301f7421666",
     "url": "/Tingkai911/react-meme-generator/index.html"
   },
   {
