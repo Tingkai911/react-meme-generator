@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from "./components/Header";
 import Memegenerator from "./components/Memegenerator";
+import Footer from "./components/Footer";
 import './components/style.css';
 
 
@@ -10,6 +11,7 @@ function App() {
     <div>
       <Header />
       <Memegenerator />
+      <Footer />
     </div>
   );
 }
